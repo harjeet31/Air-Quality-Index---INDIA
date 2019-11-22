@@ -16,6 +16,10 @@ In 2015, Government of India, together with IIT Kanpur launched the National Air
 ## AQI in Metros Cities
 ![AQI_in_Metros.png](/AQI_in_Metros.png)<br><br>
 
+## Delhi AQI Level (Air Quality Index)
+![Delhi-AQI.png](/Delhi-AQI.png)<br><br>
+
+
 ## Help URL:
 
 https://eu-west-1a.online.tableau.com/#/site/analyticsdashboardharjeetkaur/workbooks/220053/views
