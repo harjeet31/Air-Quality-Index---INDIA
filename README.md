@@ -14,7 +14,7 @@ In 2015, Government of India, together with IIT Kanpur launched the National Air
 ![Sources_of_Air_Pollution.png](/Sources_of_Air_Pollution.png)<br><br>
 
 ## AQI in Metros Cities
-![AQI in Metros.png](/AQI in Metros.png)<br><br>
+![AQI_in_Metros.png](/AQI_in_Metros.png)<br><br>
 
 ## Help URL:
 
