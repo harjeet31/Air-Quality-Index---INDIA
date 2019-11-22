@@ -11,6 +11,7 @@ The Air (Prevention and Control of Pollution) Act was passed in 1981 to regulate
 
 In 2015, Government of India, together with IIT Kanpur launched the National Air Quality Index. In 2019, India launched 'The National Clean Air Programme' with tentative national target of 20%-30% reduction in PM2.5 and PM10 concentrations by 2024, considering 2017 as the base year for comparison. It will be rolled out in 102 cities that are considered to have air quality worse than the National Ambient Air Quality Standards.</p>
 
+![Sources_of_Air_Pollution.png](/Sources_of_Air_Pollution.png)<br><br>
 
 ## Help URL:
 
