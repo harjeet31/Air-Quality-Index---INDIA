@@ -1,5 +1,5 @@
 # Air-Quality-Index---INDIA
-Air Quality Index in India and comparing the presence of different pollutant in air.
+Air Quality Index in India and comparing the presence of different level pollutant in air.
 
 ![AirPollution.jpg](/AirPollution.jpg)
 
